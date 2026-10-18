@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#152442"/>
+      <stop offset="1" stop-color="#070b16"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#628fff" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#35f2a1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="950" cy="300" r="360" fill="url(#glow)"/>
+  <path d="M0 530H1200" stroke="#ffffff" stroke-opacity=".1"/>
+  <text x="86" y="143" fill="#35f2a1" font-family="monospace" font-size="18" letter-spacing="4">PORTFOLIO / DATA ANALYTICS</text>
+  <text x="82" y="284" fill="#f1f4f3" font-family="Arial, sans-serif" font-size="76" font-weight="700">LOKESH KUMAR</text>
+  <text x="82" y="372" fill="#f1f4f3" font-family="Arial, sans-serif" font-size="76" font-weight="700">TALLURI<tspan fill="#35f2a1">.</tspan></text>
+  <text x="87" y="440" fill="#9ca8a8" font-family="Arial, sans-serif" font-size="27">Aspiring Data Analyst · CSE (AIML) Student</text>
+  <text x="87" y="566" fill="#84918e" font-family="monospace" font-size="16" letter-spacing="2">GUNTUR, ANDHRA PRADESH, INDIA</text>
+  <path d="M905 424c46-36 60-18 97-61s55 10 92-52 52-13 83-78" fill="none" stroke="#35f2a1" stroke-width="4" opacity=".8"/>
+  <path d="M905 424c46-36 60-18 97-61s55 10 92-52 52-13 83-78v186H905z" fill="#35f2a1" opacity=".06"/>
+</svg>
